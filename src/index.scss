@@ -1,7 +1,7 @@
-@import "libs/normalize";
+@import "./normalize.scss";
 
 body {
-  background: no-repeat url("../img/fon.jpg");
+  background: no-repeat url("./img/fon.jpg");
   min-width: 570px;
 }
 
