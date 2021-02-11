@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/todo_react/static/css/main.ee641c2b.chunk.css",
+    "main.js": "/todo_react/static/js/main.a21eb559.chunk.js",
+    "main.js.map": "/todo_react/static/js/main.a21eb559.chunk.js.map",
+    "runtime-main.js": "/todo_react/static/js/runtime-main.3a61f0e9.js",
+    "runtime-main.js.map": "/todo_react/static/js/runtime-main.3a61f0e9.js.map",
+    "static/js/2.766f6c16.chunk.js": "/todo_react/static/js/2.766f6c16.chunk.js",
+    "static/js/2.766f6c16.chunk.js.map": "/todo_react/static/js/2.766f6c16.chunk.js.map",
+    "static/js/3.2f2327ad.chunk.js": "/todo_react/static/js/3.2f2327ad.chunk.js",
+    "static/js/3.2f2327ad.chunk.js.map": "/todo_react/static/js/3.2f2327ad.chunk.js.map",
+    "index.html": "/todo_react/index.html",
+    "static/css/main.ee641c2b.chunk.css.map": "/todo_react/static/css/main.ee641c2b.chunk.css.map",
+    "static/js/2.766f6c16.chunk.js.LICENSE.txt": "/todo_react/static/js/2.766f6c16.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/todo_react/static/media/fon.91ed9267.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a61f0e9.js",
+    "static/js/2.766f6c16.chunk.js",
+    "static/css/main.ee641c2b.chunk.css",
+    "static/js/main.a21eb559.chunk.js"
+  ]
+}
