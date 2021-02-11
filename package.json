@@ -2,7 +2,7 @@
   "name": "todo__react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://azat-web.github.io/todo__react/",
+  "homepage": "https://azat-web.github.io/todo-react/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
